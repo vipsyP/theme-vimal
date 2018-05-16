@@ -30,6 +30,10 @@ header {
 
 }
 
+.heading a{
+    text-decoration: none;
+    color: black;
+}
 
 .heading-text {
     display:inline;
@@ -131,8 +135,12 @@ header {
     height: 70%;
 }
 
+.item a {
+    text-decoration: none;
+    color: black;
+}
 
-.item h6{
+.item a h6{
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0px;
